@@ -1,2 +1,4 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del modulo 2
+Carolina S anchez Lavalle
+
+Este proyecto es un proyecto de prueba de como crear un repositorio y clonarlo desde desde github a la computadora.
+
